@@ -25,3 +25,18 @@ nav>ul>li>a:hover{
   background: rgba(221, 109, 35, 0.678);
   color: rgba(0, 35, 122, 0.7);
 }
+#banner{padding-bottom: 1.5%;}
+#banner>a{
+    text-decoration: none;
+}
+#banner>a>h4{
+    border: 2px solid white;
+    width: 20%;
+    height: 20%;
+    margin-left: 40%;
+    margin-top: 10%;
+    padding-bottom: 1%;
+    text-align: center;
+    color: blue;
+    background-color: turquoise;
+}
