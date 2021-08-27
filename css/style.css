@@ -43,8 +43,10 @@ nav>ul>li>a:hover{
 }
 #services>h3{
   text-align: center;
-  color: rgba(255, 255, 255, 0.733);
+  color: black;
   font-size: 24px;
+  font-style: bold;
+  
 }
 #activities{
   margin-left: auto;
