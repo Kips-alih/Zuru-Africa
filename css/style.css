@@ -45,3 +45,16 @@ nav>ul>li>a:hover{
   color: rgba(255, 255, 255, 0.733);
   font-size: 24px;
 }
+#activities{
+  margin-left: auto;
+  margin-right: auto;border-collapse: collapse;
+  width: 50%;
+}
+#activities td, #activities th{
+border: 1px solid #ddd;
+padding: 8px;
+color: gold;
+}
+#activities tr{
+  background-color: #f2f2f2;
+}
