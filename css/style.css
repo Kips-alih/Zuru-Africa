@@ -1,5 +1,5 @@
 body{
-  background-image: url("/images/maasaimara.jpeg");
+  background-image: url("./maasaimara.jpeg");
 }
 nav{
   max-width: 960px;
