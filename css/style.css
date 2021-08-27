@@ -40,3 +40,7 @@ nav>ul>li>a:hover{
     color: blue;
     background-color: turquoise;
 }
+#services>h3{
+  text-align: center;
+  color: rgba(255, 255, 255, 0.733);
+}
